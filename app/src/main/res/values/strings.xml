@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Gratto</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lblFind">Encontre \numa instituição</string>
+    <string name="txtFind">Busque por nome ou localidade</string>
+    <string name="btnFind">Procurar</string>
+    <string name="lblWhy">Por que doar</string>
+
+    <string name="lblLogin">Faça login</string>
+    <string name="txtEmail">Insira o seu e-mail</string>
+    <string name="txtPassword">Insira a sua senha</string>
+    <string name="ckbRemember">Gravar e-mail</string>
+    <string name="lblForgotPassword">Esqueceu a senha </string>
+    <string name="lblRegister">Cadastre-se </string>
+    <string name="btnLogin">Entrar</string>
+
+    <string name="lblRegisterPage">Cadastre-se</string>
+    <string name="btnRegister">Criar</string>
+    <string name="txtName">Informe o seu nome</string>
+    <string name="txtDate">Data de nascimento</string>
+
+    <string name="btnRedefine">Redefinir senha</string>
+    <string name="btnDonations">Doações</string>
+
+    <string name="btnForgotPassword">Enviar</string>
+
+    <string name="btnConfirm">Confirmar</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="btnReturn">Voltar</string>
+    <string name="btnHome">Início</string>
+
+    <string name="txtCurrentPassword">Digite a sua senha atual</string>
+    <string name="txtNewPassword">Digite a sua nova senha</string>
+
+    <string name="lblDonations">Doações</string>
+
+    <string name="btnDonation">Doar</string>
+
+    <string name="lblResults">Estes são os resultados da busca...</string>
+
+    <string name="lblDonation">Doar</string>
+    <string name="txtValor">Digite o valor</string>
+    <string name="btnAnonysmouslyDonation">Doar anonimamente</string>
+    <string name="btnLoggedDonation">Doar com registro</string>
+    <string name="lblDonationsDifferences">Entenda a diferença</string>
+
+    <string name="lblDifferences">Diferença entre doar com registro e anonimamente</string>
+    <string name="lblDifferenceDescription">A diferença é...</string>
+
+    <string name="lblAbout">Sobre o aplicativo</string>
+    <string name="lblAboutDescription">O aplicativo...</string>
+
+    <string name="lblWhyDoADonation">Por que fazer uma doação</string>
+    <string name="lblWhyDescription">A doação...</string>
+
+</resources>
